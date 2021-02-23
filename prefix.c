@@ -8,6 +8,6 @@ int main()
     printf("\nb=%d",b);
     printf("\nc=%d",c);
     
-    printf("Hai teja");
+    printf("Hai Teja");
     
 }
